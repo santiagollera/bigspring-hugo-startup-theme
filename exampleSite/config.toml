@@ -1,12 +1,12 @@
 baseURL = "sad-elion-2cdadb.netlify.app"
 disqusShortname = ""
 googleAnalytics = ""
-languageCode = "en-us"
-languageName = "En"
+languageCode = "es-Es"
+languageName = "Es"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Bigspring Hugo"
+title = "Googleate"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
