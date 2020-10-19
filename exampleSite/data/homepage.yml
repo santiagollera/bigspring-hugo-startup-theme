@@ -1,13 +1,12 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Googléate es la única agencia que<br> Garantiza el primer puesto en Google
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Googléate es la única agencia que garantiza el primer puesto en Google
+    :)
   button:
     enable: true
-    label: Contact With Us
+    label: Hablamos?
     link: "#"
 feature:
   enable: true
