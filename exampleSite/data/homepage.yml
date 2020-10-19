@@ -6,7 +6,7 @@ banner:
   button:
     enable: true
     label: Hablamos?
-    link: "#"
+    link: ''
 feature:
   enable: true
   title: Something You Need To Know
@@ -94,4 +94,4 @@ call_to_action:
   button:
     enable: true
     label: Contacto
-    link: contact
+    link: https://www.googleate.es/contact/
