@@ -1,6 +1,6 @@
 baseURL = "sad-elion-2cdadb.netlify.app"
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-180884863-1"
 languageCode = "es-Es"
 languageName = "Es"
 paginate = "3"
