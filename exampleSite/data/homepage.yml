@@ -71,7 +71,7 @@ service:
       link: https://www.googleate.es/blog/post-5/
   - title: Una compañía que supera las demás
     images:
-    - images/santi.png
+    - images/santi.jpg
     content: La clave de nuestro éxito es el poder estudiar la competencia con herramientas
       de última generación para saber si podemos superarla primeramente. Un buen guerrero
       no comienza una batalla que no puede ganar :)
