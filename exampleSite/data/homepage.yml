@@ -17,9 +17,9 @@ feature:
   - name: Orientado al posicionamiento
     icon: ti-package
     content: Valoración de más de 90 sobre 100 de Google Developers
-  - name: 24h Service
+  - name: Servicio 24hs
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Estamos a tu disposición en cualquier momento que necesites
   - name: Value For Money
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
