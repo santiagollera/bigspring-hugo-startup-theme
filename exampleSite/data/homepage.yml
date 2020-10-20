@@ -14,9 +14,9 @@ feature:
   - name: Código optimizado
     icon: ti-pulse
     content: CMS estático que garantiza la mejor velocidad de navegación
-  - name: Object Oriented
+  - name: Orientado al posicionamiento
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Valoración de más de 90 sobre 100 de Google Developers
   - name: 24h Service
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
