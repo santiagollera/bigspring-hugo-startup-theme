@@ -27,7 +27,7 @@ feature:
   - name: Soporte Online
     icon: ti-headphone-alt
     content: Consejos de marketing gratuitos para nuestros clientes
-  - name: Soporte online
+  - name: Almacenamiento
     icon: ti-cloud-up
     content: Hosting gratuito incluído en el precio
 service:
