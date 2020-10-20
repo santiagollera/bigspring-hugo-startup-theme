@@ -2,6 +2,11 @@
 title: Contáctanos
 subtitle: ''
 description: Contacto con empresa de marketing deigital y desarrollo web
+menu:
+  main:
+    URL: contact
+    name: Contacto
+    weight: 3
 
 ---
 ### Contáctanos!
