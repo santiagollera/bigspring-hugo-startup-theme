@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Marketing Digital y <br> Desarrollo web
+  title: Ser el primero en Google <br> Garantizado
   image: images/banner-art.svg
-  content: Somos la única agencia que garantiza el primer puesto en Google :)
+  content: ''
   button:
     enable: true
     label: Googléate!!
