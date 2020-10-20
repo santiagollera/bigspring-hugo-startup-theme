@@ -55,14 +55,14 @@ name = "FAQ"
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© Googleate 2020"
 description = "This is meta description"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 logo = "images/logo.png"
 logo_width = "200px"
 [params.navigation_button]
 enable = true
-label = "Get Started"
+label = "Contacto"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
