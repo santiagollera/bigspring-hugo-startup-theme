@@ -20,9 +20,10 @@ feature:
   - name: Servicio 24hs
     icon: ti-alarm-clock
     content: Estamos a tu disposición en cualquier momento que necesites
-  - name: Value For Money
+  - name: Beneficios reales
     icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: La mejor forma de vender por internet es a través del buscador número
+      uno
   - name: Faster Response
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
