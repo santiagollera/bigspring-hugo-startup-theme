@@ -60,6 +60,7 @@ description = "This is meta description"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 logo = "images/logo.png"
 logo_width = "200px"
+social = []
 [params.navigation_button]
 enable = true
 label = "Contacto"
@@ -79,19 +80,3 @@ link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "ti-skype"
-link = "#"
-title = "skype"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
