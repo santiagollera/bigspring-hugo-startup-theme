@@ -47,18 +47,16 @@ service:
       enable: true
       label: Leer más
       link: https://www.googleate.es/blog/post-1/
-  - title: It is a privately owned Information and cyber security company
+  - title: Informes mensuales
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Para mantener la estrategia orientada a los resultados y el complimiento
+      del proyecto de marketing, realizamos informes mensuales de seguimiento del
+      gasto publicitario y el tráfico web
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Leer más
+      link: https://www.googleate.es/blog/post-4/
   - title: It’s a team of experienced and skilled people with distributions
     images:
     - images/service-2.png
