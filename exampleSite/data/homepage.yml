@@ -24,9 +24,10 @@ feature:
     icon: ti-credit-card
     content: La mejor forma de vender por internet es a través del buscador número
       uno
-  - name: Faster Response
+  - name: Velocidad web
     icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: El principal factor de diferenciación con la competencia para estar en
+      el primer puesto
   - name: Cloud Support
     icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
