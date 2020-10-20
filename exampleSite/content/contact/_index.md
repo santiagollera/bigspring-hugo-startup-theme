@@ -1,6 +1,6 @@
 ---
 title: Contáctanos
-subtitle: Estaremos encantados de responderte en menos de 30min
+subtitle: ''
 description: Contacto con empresa de marketing deigital y desarrollo web
 
 ---
