@@ -33,26 +33,26 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Algunos de nuestros clientes
+  - title: Algunos de mis clientes
     images:
     - images/am.png
     - images/sm.png
     - images/vb.png
-    content: Somos un equipo joven de desarrolladores, diseñadores y expertos de marketing
-      que aplicamos los métodos de optimización web con páginas estáticas, responsive
-      design y estrategias de marketing orientada a objetivos numéricos y reales.
-      Estamos a la vanguardia de la técnica para garantizar superar a la competencia
-      en Google.
+    content: Soy Santiago Llera desarrollador web, diseñador y experto de marketing
+      que aplico los métodos de optimización web con páginas estáticas, responsive
+      design y estrategias orientadas a objetivos numéricos y reales. Estoy a la vanguardia
+      de la técnica para garantizar superar a la competencia en Google.
     button:
       enable: true
       label: Leer más
       link: https://www.googleate.es/blog/post-1/
-  - title: Informes mensuales
+  - title: Satisfacción garantizada
     images:
     - images/service-1.png
     content: Para mantener la estrategia orientada a los resultados y el complimiento
-      del proyecto de marketing, realizamos informes mensuales de seguimiento del
-      gasto publicitario y el tráfico web
+      del proyecto de marketing, realizo estudios de mercado previos y garantizo la
+      satisfacción, si no está satisfecho le devuelvo el dinero. Así de seguro estoy
+      que obtendrá beneficios :)
     button:
       enable: true
       label: Leer más
