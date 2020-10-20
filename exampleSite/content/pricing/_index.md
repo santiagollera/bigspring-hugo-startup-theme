@@ -6,31 +6,30 @@ description: tarifas, precios, googleate, marketing online barato, precios campa
 basic:
   name: Basic Plan
   price: "$49"
-  price_per: month
-  info: Best For Small Individuals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  price_per: unico
+  info: Mejor para startups y proyectos de empresa:
+  Servicios:
+  - Servicio de creación web 
+  - Hosting de página
+  - Registro de dominio
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Contratar
+    link: https://www.googleate.es/contact/
 professional:
   name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  price: "50€"
+  price_per: mes
+  info: Mejor para autónomos y empresas
+  Servicios:
+  - Todo lo del plan básico
+  - Gestión de publicidad en Google
+  - Posicionamiento SEO
+  - Consejos de marketing 
   button:
     enable: true
     label: Get started for free
-    link: "#"
+    link: https://www.googleate.es/contact/
 business:
   name: Business Plan
   price: "$49"
