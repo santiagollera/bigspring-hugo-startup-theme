@@ -33,11 +33,11 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Marketing Digital de última generación
+  - title: Algunos de nuestros clientes
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/am.png
+    - images/sm.png
+    - images/vb.png
     content: Somos un equipo joven de desarrolladores, diseñadores y expertos de marketing
       que aplicamos los métodos de optimización web con páginas estáticas, responsive
       design y estrategias de marketing orientada a objetivos numéricos y reales.
