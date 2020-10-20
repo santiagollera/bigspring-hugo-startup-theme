@@ -60,11 +60,10 @@ service:
   - title: Marketing Digital de última generación
     images:
     - images/santi.jpg
-    content: Somos un equipo joven de desarrolladores, diseñadores y expertos de marketing
-      que aplicamos los métodos de optimización web con páginas estáticas, responsive
-      design y estrategias de marketing orientada a objetivos numéricos y reales.
-      Estamos a la vanguardia de la técnica para garantizar superar a la competencia
-      en Google.
+    content: Soy Santiago Llera desarrollador web, diseñador y experto de marketing
+      que aplico los métodos de optimización web con páginas estáticas, responsive
+      design y estrategias orientadas a objetivos numéricos y reales. Estoy a la vanguardia
+      de la técnica para garantizar superar a la competencia en Google.
     button:
       enable: true
       label: Leer más
