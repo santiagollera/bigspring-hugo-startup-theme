@@ -69,18 +69,16 @@ service:
       enable: true
       label: Leer más
       link: https://www.googleate.es/blog/post-5/
-  - title: A company standing different from others
+  - title: Una compañía que supera las demás
     images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/santi.png
+    content: La clave de nuestro éxito es el poder estudiar la competencia con herramientas
+      de última generación para saber si podemos superarla primeramente. Un buen guerrero
+      no comienza una batalla que no puede ganar :)
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Leer más
+      link: https://www.googleate.es/blog/post-6/
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
