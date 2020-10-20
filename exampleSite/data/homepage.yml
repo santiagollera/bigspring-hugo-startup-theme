@@ -83,7 +83,7 @@ service:
       link: https://www.googleate.es/blog/post-6/
 screenshot:
   enable: true
-  title: Google partners <br> trabaja con nosotros
+  title: Mi cliente es lo más importante
   image: images/screenshot.svg
 call_to_action:
   enable: true
