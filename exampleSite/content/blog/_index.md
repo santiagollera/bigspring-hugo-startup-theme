@@ -1,7 +1,7 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Blog
+subtitle: Últimas noticias
+description: blog, googleate. vender en internet, marketing digital, guru online,
+  marbella marketing
+
 ---
