@@ -5,8 +5,8 @@ banner:
   content: Somos la única agencia que garantiza el primer puesto en Google :)
   button:
     enable: true
-    label: Hablamos?
-    link: ''
+    label: Googléate!!
+    link: https://www.googleate.es/contact/
 feature:
   enable: true
   title: Something You Need To Know
