@@ -57,18 +57,18 @@ service:
       enable: true
       label: Leer más
       link: https://www.googleate.es/blog/post-4/
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Marketing Digital de última generación
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Somos un equipo joven de desarrolladores, diseñadores y expertos de marketing
+      que aplicamos los métodos de optimización web con páginas estáticas, responsive
+      design y estrategias de marketing orientada a objetivos numéricos y reales.
+      Estamos a la vanguardia de la técnica para garantizar superar a la competencia
+      en Google.
     button:
       enable: true
-      label: Check it out
-      link: "#"
+      label: Leer más
+      link: https://www.googleate.es/blog/post-5/
   - title: A company standing different from others
     images:
     - images/service-3.png
