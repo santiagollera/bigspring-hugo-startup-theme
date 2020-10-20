@@ -28,9 +28,9 @@ feature:
     icon: ti-headphone-alt
     content: El principal factor de diferenciación con la competencia para estar en
       el primer puesto
-  - name: Cloud Support
+  - name: Soporte online
     icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Hosting gratuito incluído en el precio
 service:
   enable: true
   service_item:
