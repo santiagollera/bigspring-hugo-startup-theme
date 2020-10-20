@@ -12,11 +12,11 @@ unsafe = true
 [[menu.company]]
 URL = "#"
 name = "Quick Start"
-weight = 2
+weight = 1
 [[menu.company]]
 URL = "#"
 name = "About Us"
-weight = 3
+weight = 2
 [[menu.product]]
 URL = "#"
 name = "Features"

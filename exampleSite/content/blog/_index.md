@@ -6,6 +6,6 @@ description: blog, googleate. vender en internet, marketing digital, guru online
 menu:
   main:
     URL: blog
-    weight: 1
+    weight: 2
 
 ---

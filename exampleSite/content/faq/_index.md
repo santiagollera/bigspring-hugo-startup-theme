@@ -4,9 +4,9 @@ subtitle: ''
 description: This is meta description
 menu:
   main:
-    URL: faq
     name: Preguntas frecuentes
-    weight: 4
+    URL: faq
+    weight: 3
 
 ---
 {{< faq "Will updates also be free?" >}}
