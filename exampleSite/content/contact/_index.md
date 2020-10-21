@@ -1,6 +1,6 @@
 ---
 title: Contáctanos
-subtitle: No se realizará ningún cobro
+subtitle: ''
 description: Contacto con empresa de marketing deigital y desarrollo web
 menu:
   main:
