@@ -18,6 +18,6 @@ Mi método de desarrollo web lo he ido perfeccionando con los años desde que tu
 
 También ofrezco diseño gráfico y gestión de campañas de marketing digital. Aplico los métodos de optimización web con CMS Hugo, Wordpress o Prestashop. Empleo el responsive design y estrategias orientadas a objetivos numéricos y reales. Estoy a la vanguardia de la técnica para garantizar superar a la competencia, garantizado.
 
-Nos conocemos?? Déjame tu [contacto aquí](https://www.googleate.es/contact/ "Contacto") y te respondo
+Nos conocemos?? Déjame tu [**contacto aquí **](https://www.googleate.es/contact/ "Contacto")y te respondo
 
 ![](/images/linked.jpg)
