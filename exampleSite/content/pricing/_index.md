@@ -17,9 +17,9 @@ basic:
     link: "#"
 professional:
   name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  price: "60€"
+  price_per: mes
+  info: El mejor para profesionales
   services:
   - Express Service
   - Customs Clearance
