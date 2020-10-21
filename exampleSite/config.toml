@@ -22,10 +22,6 @@ URL = "faq"
 name = "Preguntas Frecuentes"
 weight = 1
 [[menu.support]]
-URL = "terms-conditions"
-name = "Términos y condiciones legales"
-weight = 2
-[[menu.support]]
 URL = "privacy-policy"
 name = "Política de privacidad"
 weight = 3
