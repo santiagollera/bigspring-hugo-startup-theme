@@ -18,13 +18,9 @@ URL = "#"
 name = "About Us"
 weight = 2
 [[menu.product]]
-URL = "#"
-name = "Features"
+URL = "https://www.googleate.es/pricing/"
+name = "Tarifas y precios"
 weight = 1
-[[menu.product]]
-URL = "#"
-name = "Platform"
-weight = 2
 [[menu.support]]
 URL = "faq"
 name = "Preguntas Frecuentes"
