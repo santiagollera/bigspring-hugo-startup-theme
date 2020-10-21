@@ -36,8 +36,8 @@ service:
   - title: Algunos de mis clientes
     images:
     - images/am.png
-    - images/sm.png
-    - images/vb.png
+    - images/axd.png
+    - images/mr.png
     content: Soy Santiago Llera desarrollador web, diseñador y experto de marketing
       que aplico los métodos de optimización web con páginas estáticas, responsive
       design y estrategias orientadas a objetivos numéricos y reales. Estoy a la vanguardia
