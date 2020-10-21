@@ -13,7 +13,7 @@ feature:
   feature_item:
   - name: Código optimizado
     icon: ti-pulse
-    content: CMS estático que garantiza la mejor velocidad de navegación
+    content: CMS estático que garantiza el restreo y el posicionamiento en buscadores
   - name: Orientado al posicionamiento
     icon: ti-package
     content: Valoración de más de 90 sobre 100 de Google Developers
