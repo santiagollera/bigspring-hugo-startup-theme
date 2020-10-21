@@ -10,10 +10,6 @@ title = "Googleate"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
-URL = "#"
-name = "Quick Start"
-weight = 1
-[[menu.company]]
 URL = "https://www.googleate.es/blog/post-2/"
 name = "Acerca de"
 weight = 2
