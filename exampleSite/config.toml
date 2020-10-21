@@ -14,7 +14,7 @@ URL = "#"
 name = "Quick Start"
 weight = 1
 [[menu.company]]
-URL = "#"
+URL = "https://www.googleate.es/blog/post-2/"
 name = "Acerca de"
 weight = 2
 [[menu.product]]
