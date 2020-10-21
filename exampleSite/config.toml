@@ -31,7 +31,7 @@ name = "Preguntas Frecuentes"
 weight = 1
 [[menu.support]]
 URL = "terms-conditions"
-name = "Terms & Conditions"
+name = "Términos y condiciones legales"
 weight = 2
 [[menu.support]]
 URL = "privacy-policy"
