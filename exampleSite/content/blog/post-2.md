@@ -5,6 +5,10 @@ image: "/images/logo.png"
 type: regular
 description: Acerca de, Santiago Llera Garcia
 menu:
+  company:
+    URL: "#"
+    name: Acerca de
+    weight: 1
   main:
     name: Acerca de
     weight: 4

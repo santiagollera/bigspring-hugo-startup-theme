@@ -9,10 +9,6 @@ theme = "bigspring"
 title = "Googleate"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.company]]
-URL = "#"
-name = "Acerca de"
-weight = 1
 [[menu.product]]
 URL = "https://www.googleate.es/pricing/"
 name = "Tarifas y precios"
