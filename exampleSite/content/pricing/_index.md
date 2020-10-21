@@ -1,7 +1,8 @@
 ---
-title: Pricing
+title: Tarifas y precios
 subtitle: ''
-description: This is meta description
+description: precios servicios, marketing digital, publicidad internet, creacion paginas
+  web
 basic:
   name: Basic Plan
   price: "$49"
@@ -17,9 +18,9 @@ basic:
     link: "#"
 professional:
   name: Professional Plan
-  price: "60€"
-  price_per: mes
-  info: El mejor para profesionales
+  price: "$49"
+  price_per: month
+  info: Best For Professionals
   services:
   - Express Service
   - Customs Clearance
