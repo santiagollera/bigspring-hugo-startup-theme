@@ -38,14 +38,13 @@ service:
     - images/am.png
     - images/axd.png
     - images/mr.png
-    content: Soy Santiago Llera desarrollador web, diseñador y experto de marketing
-      que aplico los métodos de optimización web con páginas estáticas, responsive
-      design y estrategias orientadas a objetivos numéricos y reales. Estoy a la vanguardia
-      de la técnica para garantizar superar a la competencia en Google.
+    content: Los precios y tarifas son muy competitivos y ahora mismo es calidad precio
+      el mejor del mercado. Ninguna otra agencia de publicidad en internet ofrece
+      la garantía de ser el primero en Google
     button:
       enable: true
-      label: Leer más
-      link: https://www.googleate.es/blog/post-1/
+      label: Tarifas y precios
+      link: https://www.googleate.es/pricing/
   - title: Marketing Digital de última generación
     images:
     - images/linked.jpg
