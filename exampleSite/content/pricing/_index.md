@@ -18,23 +18,23 @@ basic:
     link: "#"
 professional:
   name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  price: "60€"
+  price_per: mes
+  info: Mejor para autónomos y empresas
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Todo lo del plan Basic
+  - Gestión de campaña de Google Ads
+  - Asistencia 24hs
+  - Consejos de marketing
+  - Posicionamiento SEO
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Contratar
+    link: "https://www.googleate.es/contact/"
 business:
-  name: Business Plan
-  price: "$49"
-  price_per: month
+  name: Premium Plan
+  price: "80€"
+  price_per: mes
   info: Best For Large Individuals
   services:
   - Express Service
