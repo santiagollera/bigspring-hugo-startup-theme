@@ -1,7 +1,7 @@
 ---
 title: Hola!! soy
 date: 2020-04-18T10:07:21.000+06:00
-image: ''
+image: "/images/logo.png"
 type: regular
 description: Acerca de, Santiago Llera Garcia
 menu:
