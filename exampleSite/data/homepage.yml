@@ -29,7 +29,7 @@ feature:
     content: Consejos de marketing gratuitos para nuestros clientes
   - name: Almacenamiento
     icon: ti-cloud-up
-    content: Hosting gratuito incluído en el precio con el plan business y premium
+    content: Hosting incluído en el precio con el plan business y premium
 service:
   enable: true
   service_item:
