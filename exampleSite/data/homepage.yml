@@ -60,12 +60,12 @@ service:
   - title: Marketing Digital de última generación
     images:
     - images/santi.jpg
-    content: Soy Santiago Llera hago webs muy centradas en el posicionamiento en Google
-      mediante páginas estáticas, también ofrezco diseño gráfico y gestión de campañas
-      de marketing digital. Aplico los métodos de optimización web con CMS Hugo, Wordpress
-      o Prestashop. Empleo el responsive design y estrategias orientadas a objetivos
-      numéricos y reales. Estoy a la vanguardia de la técnica para garantizar superar
-      a la competencia, garantizado.
+    content: Soy Santiago Llera, radico físicamente en Marbella y desarrollo webs
+      muy centradas en el posicionamiento en Google mediante páginas estáticas, también
+      ofrezco diseño gráfico y gestión de campañas de marketing digital. Aplico los
+      métodos de optimización web con CMS Hugo, Wordpress o Prestashop. Empleo el
+      responsive design y estrategias orientadas a objetivos numéricos y reales. Estoy
+      a la vanguardia de la técnica para garantizar superar a la competencia, garantizado.
     button:
       enable: true
       label: Leer más
