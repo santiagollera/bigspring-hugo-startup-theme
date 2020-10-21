@@ -16,6 +16,6 @@ menu:
 
 {{< faq "Después de terminar el proyecto das soporte del mismo?" >}} Si doy soporte, al terminar cada proyecto, dependiendo de sus características o el plan que tenga contratado (Premium y Professional está incluído). En caso de que eliga el Basic que es sólo crear la web al finalizar explico cómo manejarla y actualizar contenido. Si después de esto más adelante necesita ayuda, este servicio tiene un costo de 20 €. {{</ faq >}}
 
-{{< faq "Se hacen reenvolsos?" >}} Googléate es la única agencia de publicidad online que ofrece reenvolso bajo la condición de no ser primero en Google. Si no estás satisfecho con el trabajo de desarrollo web o no se cumple esta condición te devolvemos el dinero. {{</ faq >}}
+{{< faq "Se hacen reembolsos?" >}} Googléate es la única agencia de publicidad online que ofrece reenvolso bajo la condición de no ser primero en Google. Si no estás satisfecho con el trabajo de desarrollo web o no se cumple esta condición te devolvemos el dinero. {{</ faq >}}
 
 {{< faq "Trabajas con Wordpress?" >}} Uso mayormente porque es más competitivo en buscadores el CMS de páginas estáticas HUGO, pero si lo deseas si qué sé usar Wordpress perfectamente si estás más familiarizado con este para actualizar contenido luego. De hecho antes de comenzar a usar HUGO las web las hacía siempre con Wordpress que ya se ha ido quedando más atrás. {{</ faq >}}
