@@ -40,7 +40,7 @@ service:
     - images/mr.png
     content: Los precios y tarifas son muy competitivos y ahora mismo es calidad precio
       el mejor del mercado. Ninguna otra agencia de publicidad en internet ofrece
-      la garantía de ser el primero en Google
+      la garantía de ser el primero en Google y webs estáticas por estos precios :)
     button:
       enable: true
       label: Tarifas y precios
