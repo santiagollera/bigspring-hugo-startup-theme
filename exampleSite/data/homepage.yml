@@ -46,17 +46,6 @@ service:
       enable: true
       label: Leer más
       link: https://www.googleate.es/blog/post-1/
-  - title: Satisfacción garantizada
-    images:
-    - images/service-1.png
-    content: Para mantener la estrategia orientada a los resultados y el complimiento
-      del proyecto de marketing, realizo estudios de mercado previos y garantizo la
-      satisfacción, si no está satisfecho le devuelvo el dinero. Así de seguro estoy
-      que obtendrá beneficios :)
-    button:
-      enable: true
-      label: Leer más
-      link: https://www.googleate.es/blog/post-4/
   - title: Marketing Digital de última generación
     images:
     - images/santi.jpg
