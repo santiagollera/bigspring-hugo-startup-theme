@@ -18,7 +18,7 @@ basic:
     link: "#"
 professional:
   name: Professional Plan
-  price: "60€"
+  price: 60€
   price_per: mes
   info: Mejor para autónomos y empresas
   services:
@@ -30,10 +30,10 @@ professional:
   button:
     enable: true
     label: Contratar
-    link: "https://www.googleate.es/contact/"
+    link: https://www.googleate.es/contact/
 business:
   name: Premium Plan
-  price: "80€"
+  price: 80€
   price_per: mes
   info: Best For Large Individuals
   services:

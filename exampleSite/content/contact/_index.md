@@ -6,7 +6,7 @@ menu:
   main:
     name: Contacto
     URL: contact
-    weight: 4
+    weight: 5
 
 ---
 ### Contáctanos!

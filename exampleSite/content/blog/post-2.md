@@ -4,6 +4,10 @@ date: 2020-04-18T10:07:21.000+06:00
 image: "/images/santi.jpg"
 type: regular
 description: Acerca de, Santiago Llera Garcia
+menu:
+  main:
+    name: Acerca de
+    weight: 4
 
 ---
 ###### Santiago Llera García, vivo actualmente en Marbella, estudié en la U.A.M ( Universidad Autónoma de Madrid) aunque originalemente hice también dos años en la CUJAE, Universidad en La Habana ya que originalemente soy de Cuba.

@@ -10,25 +10,25 @@ title = "Googleate"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.company]]
-URL = "https://www.googleate.es/blog/post-2/"
+URL = "#"
 name = "Acerca de"
-weight = 2
+weight = 1
 [[menu.product]]
 URL = "https://www.googleate.es/pricing/"
 name = "Tarifas y precios"
 weight = 1
 [[menu.support]]
-URL = "faq"
-name = "Preguntas Frecuentes"
-weight = 1
+URL = "privacy-policy"
+name = "Política de privacidad"
+weight = 3
 [[menu.support]]
 URL = "terms-conditions"
 name = "Términos y condiciones legales"
 weight = 2
 [[menu.support]]
-URL = "privacy-policy"
-name = "Política de privacidad"
-weight = 3
+URL = "faq"
+name = "Preguntas Frecuentes"
+weight = 1
 [params]
 author = "Santiago Llera"
 contact_form_action = "https://www.googleate.es/contact/"
