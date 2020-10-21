@@ -51,7 +51,7 @@ call_to_action:
   content: Contacta conmigo y podemos hablarlo.
   button:
     enable: true
-    label: Contact Us
+    label: Contactar
     link: contact
 menu:
   main:
