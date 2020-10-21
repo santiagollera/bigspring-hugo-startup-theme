@@ -9,23 +9,23 @@ basic:
   price_per: month
   info: Best For Small Individuals
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Creación de contenido
+  - Registro de dominio
+  - Diseño de marca
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Contratar
+    link: "https://www.googleate.es/contact/"
 professional:
   name: Professional Plan
   price: 60€
   price_per: mes
-  info: Mejor para autónomos y empresas
+  info: Mejor para autónomos
   services:
   - Todo lo del plan Basic
   - Gestión de campaña de Google Ads
-  - Asistencia 24hs
-  - Consejos de marketing
+  - 1 actualización mensual de contenido
+  - Alojamiento de la web
   - Posicionamiento SEO
   button:
     enable: true
@@ -35,21 +35,20 @@ business:
   name: Premium Plan
   price: 80€
   price_per: mes
-  info: Best For Large Individuals
+  info: Recomendado para empresas
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Todo lo de planes anteriores
+  - Cambios ilimitados en la web
+  - Asistencia 24hs
   button:
     enable: true
     label: Get started for free
     link: "#"
 call_to_action:
   enable: true
-  title: Need a larger plan?
+  title: Necesita un plan más amplio?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Contacta conmigo y podemos hablarlo.
   button:
     enable: true
     label: Contact Us
