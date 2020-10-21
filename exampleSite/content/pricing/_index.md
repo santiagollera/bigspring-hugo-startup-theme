@@ -42,8 +42,8 @@ business:
   - Asistencia 24hs
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Contratar
+    link: "https://www.googleate.es/contact/"
 call_to_action:
   enable: true
   title: Necesita un plan más amplio?
