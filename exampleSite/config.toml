@@ -27,7 +27,7 @@ name = "Platform"
 weight = 2
 [[menu.support]]
 URL = "faq"
-name = "FAQ"
+name = "Preguntas Frecuentes"
 weight = 1
 [[menu.support]]
 URL = "terms-conditions"
