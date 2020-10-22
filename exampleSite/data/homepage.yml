@@ -58,10 +58,10 @@ service:
       enable: true
       label: Leer más
       link: https://www.googleate.es/blog/post-5/
-  - title: Una compañía que supera las demás
+  - title: Una página que supera las demás
     images:
     - images/service-3.png
-    content: La clave de nuestro éxito es el poder estudiar la competencia con herramientas
+    content: La clave del éxito es el poder estudiar la competencia con herramientas
       de última generación para saber si podemos superarla primeramente. Un buen guerrero
       no comienza una batalla que no puede ganar. Luego desarrollar una web más rápida,
       con contenidos semánticos y originales, imágenes y código optimizado, la fórmula
