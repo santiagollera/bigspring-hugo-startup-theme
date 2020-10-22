@@ -16,6 +16,6 @@ La mayoría de las empresas se dedican a optimizar estos códigos para hacer las
 
 ##### SEM de calidad
 
-Es importantísimo es hacer las campañas de Google Ads de calidad, es imprescindible seguir todos los pasos para un correcto plan de marketing y que la rentabilidad llegue desde el día 1. El secreto es conocer exactamente el perfil de cliente, encontrar esa ventaja competitiva y hacerlo mejor, ahí está la clave.
+Algo importantísimo es hacer las campañas de Google Ads de calidad, es imprescindible seguir todos los pasos para un correcto plan de marketing y que la rentabilidad llegue desde el día 1. El secreto es conocer exactamente el perfil de cliente, encontrar esa ventaja competitiva y hacerlo mejor, ahí está la clave.
 
-El Marketing de nueva generación consiste en unificar en un mismo plan, todos los pasos a seguir desde el diseño del logo y la marca hasta la campaña de Google Ads que esté orientado al posicionamiento en buscadores, ya que es ahí donde se encuentra el mayor volumen de clientes.
+El Marketing de nueva generación consiste en unificar en un mismo plan, todos los pasos a seguir desde la elección del dominio, el diseño del logo y la marca hasta la campaña de Google Ads que esté orientado al posicionamiento en buscadores, ya que es ahí donde se encuentra el mayor volumen de clientes.
