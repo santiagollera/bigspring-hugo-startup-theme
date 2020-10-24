@@ -1,8 +1,7 @@
 ---
 title: Tarifas y precios
 subtitle: ''
-description: precios servicios, marketing digital, publicidad internet, creacion paginas
-  web
+description: Marketing digital, publicidad internet,Desarrollo Web
 basic:
   name: Basic Plan
   price: "$49"
@@ -15,7 +14,7 @@ basic:
   button:
     enable: true
     label: Contratar
-    link: "https://www.googleate.es/contact/"
+    link: https://www.googleate.es/contact/
 professional:
   name: Professional Plan
   price: 60€
@@ -43,7 +42,7 @@ business:
   button:
     enable: true
     label: Contratar
-    link: "https://www.googleate.es/contact/"
+    link: https://www.googleate.es/contact/
 call_to_action:
   enable: true
   title: Necesita un plan más amplio?
